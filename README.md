@@ -12,7 +12,7 @@ Install with one line (copy pate):
 Aprenderer Setting at port http://ip:7779
 >
 # LMS
-Active plugin the UPnP/DLNA bridge
+Need to Active plugin UPnP/DLNA bridge for LMS
 >
 ### UPnP/DLNA bridge players in LMS, suppot play from LMS to MPD(UPNP) rAudio and to Aprenderer(UPNP) or Android box, TV...
 After activating the plugin, the UPnP/DLNA bridge needs some time to update. Next, you'll need to go to the UPnP/DLNA bridge Settings page to select the squeeze2upnp-linux-aarch64 for Arch Linux. It will take another 30 seconds for the UPnP/DLNA bridge to discover UPnP devices on your LAN.
