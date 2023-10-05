@@ -19,5 +19,5 @@ After activating the plugin, the UPnP/DLNA bridge needs some time to update. Nex
 >
 If you want to play to MPD on rAudio, you need to enable the UPNP upmpdcli option on rAudio.
 >
-Support thread is here:
+ UPnP/DLNA bridge Support thread is here:
 https://forums.slimdevices.com/forum/user-forums/3rd-party-software/100256-announce-upnpbridge-integrate-upnp-dlna-players-with-lms-squeeze2upnp?103728-Announce-UPnPBridge-integrate-UPnP-DLNA-players-with-LMS-(squeeze2upnp)=
