@@ -15,7 +15,7 @@ Aprenderer Setting at port http://ip:7779
 Active plugin the UPnP/DLNA bridge
 >
 ### UPnP/DLNA bridge players in LMS, suppot play from LMS to MPD(UPNP) rAudio and to Aprenderer(UPNP) or Android box, TV...
-After activating the plugin, the UPnP/DLNA bridge needs some time to update. Next, you'll need to go to the UPnP/DLNA bridge Settings page to select the squeeze2upnp-linux-aarch64 to render for rAudio. It will take another 30 seconds for the UPnP/DLNA bridge to discover UPnP devices on your LAN.
+After activating the plugin, the UPnP/DLNA bridge needs some time to update. Next, you'll need to go to the UPnP/DLNA bridge Settings page to select the squeeze2upnp-linux-aarch64 for Arch Linux. It will take another 30 seconds for the UPnP/DLNA bridge to discover UPnP devices on your LAN.
 >
 If you want to play to MPD on rAudio, you need to enable the UPNP upmpdcli option on rAudio.
 >
