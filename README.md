@@ -12,3 +12,6 @@ Install with one line:
 Active plugin the UPnP/DLNA bridge
 >
 Use UPnP/DLNA players in LMS, suppot play from LMS to MPD(UPNP) rAudio and to Aprenderer(UPNP)
+>
+Support thread is here:
+https://forums.slimdevices.com/forum/user-forums/3rd-party-software/100256-announce-upnpbridge-integrate-upnp-dlna-players-with-lms-squeeze2upnp?103728-Announce-UPnPBridge-integrate-UPnP-DLNA-players-with-LMS-(squeeze2upnp)=
