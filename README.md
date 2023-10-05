@@ -8,6 +8,9 @@ Install with one line:
 >
 > cd /tmp && wget https://albumplayer.ru/linux/aprenderer-arm32.tar.gz && tar -zxf /tmp/aprenderer-arm64.tar.gz --overwrite -C /usr && ln -fs /usr/aprenderer/aprenderer.service /etc/systemd/system/aprenderer.service && systemctl daemon-reload && systemctl restart aprenderer.service && systemctl enable aprenderer.service && systemctl status aprenderer.service
 >
+-----------------
+Aprenderer Setting at port http://ip:7779
+>
 # LMS
 Active plugin the UPnP/DLNA bridge
 >
