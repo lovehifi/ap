@@ -1,5 +1,6 @@
 
 # Aprenderer-arm64 for rAudio 64bit
+Install with one line:
 >
 > cd /tmp && wget https://albumplayer.ru/linux/aprenderer-arm64.tar.gz && tar -zxf /tmp/aprenderer-arm64.tar.gz --overwrite -C /usr && ln -fs /usr/aprenderer/aprenderer.service /etc/systemd/system/aprenderer.service && systemctl daemon-reload && systemctl restart aprenderer.service && systemctl enable aprenderer.service
 >
